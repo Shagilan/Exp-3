@@ -48,8 +48,7 @@ Sequence Diagram
 <img width="1064" height="889" alt="image" src="https://github.com/user-attachments/assets/4c3b0315-267d-44cc-a30e-4ee2528355a5" />
 
 ## PACKAGE DIAGRAM:
-
-
+<img width="1117" height="617" alt="image" src="https://github.com/user-attachments/assets/f03c94dc-8908-4c94-8573-224c67b98261" />
 
 ## COMMUNICATION DIAGRAM:
 <img width="1025" height="625" alt="image" src="https://github.com/user-attachments/assets/b82a6e88-1b2b-4e6d-bcf1-c8610054bb48" />
